@@ -60,7 +60,7 @@ services based on your business needs:
 GitHub Repo Access to Fetch the Deployed Project to Create Build
 Pipeline:
 
-The link https://github.ec.va.gov/ can be used to deploy a project to
+The link https://github.com can be used to deploy a project to
 GitHub platform. We can also use the Azure Repo feature if we would like
 to deploy the project from our local machine instead.
 

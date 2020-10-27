@@ -1,11 +1,5 @@
 SQL Script Execution in Pipeline
-================================
-
-Version 1.0
-
-October 16, 2020 \| Enterprise Cloud Solutions Office (ECSO)
-
-FOR INTERNAL USE ONLY
+=========================
 
 **1 Introduction**
 
@@ -100,25 +94,8 @@ Steps are:
 
 ![](/Media/SSE5.png)
 
-**5 Summary for Quick Establishment of The Environment**
 
--   GitHub Repo Deployment
-
-<https://github.ec.va.gov/>
-
--   Azure DevOps Portal
-
-<https://devops.ec.va.gov/>
-
--   Agent Pool Creation
-
-<https://devops.ec.va.gov/SharedServices/TestProject/_settings/agentqueues>
-
--   Agent Download and Installation
-
-<https://devops.ec.va.gov/SharedServices/TestProject/_settings/agentqueues?queueId=114&view=jobs>
-
-**6 User Notification**
+** User Notification**
 
 A user can be notified as the builds proceed along. Build, release,
 success, failure, and code updates are the some of many notifications
@@ -129,15 +106,3 @@ member.
 
 ![](/Media/SSE6.png)
 
-7 Support Escalation Paths {#support-escalation-paths .list-paragraph}
---------------------------
-
-The information below provides the contacts for support escalation.
-
-### Vendor Supports
-
-### VA Support
-
-### Key Contacts, Websites Portals
-
-                         
