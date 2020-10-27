@@ -77,7 +77,7 @@ To create Azure DevOps account, https://azure.microsoft.com/en-us/services/devop
     option on left. A new pipeline is created successfully which
     includes the source code from GitHub Repo.
 
-![](media/image5.png)
+![](Media/GEC1.png)
 
                          
                          
