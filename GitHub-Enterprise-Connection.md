@@ -57,14 +57,14 @@ services based on your business needs:
 -   Any changes made to the code are influenced throughout the whole
     environment instantly.
 
-[GitHub Repo Access to Fetch the Deployed Project to Create Build
-Pipeline:]{.ul}
+GitHub Repo Access to Fetch the Deployed Project to Create Build
+Pipeline:
 
 The link https://github.ec.va.gov/ can be used to deploy a project to
 GitHub platform. We can also use the Azure Repo feature if we would like
 to deploy the project from our local machine instead.
 
-To create Azure DevOps account, <https://devops.ec.va.gov/> can be used
+To create Azure DevOps account, https://azure.microsoft.com/en-us/services/devops/ can be used
 .
 
 -   After logging in, A new organization is created.
