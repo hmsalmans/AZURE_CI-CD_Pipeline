@@ -65,13 +65,11 @@ between the virtual machine and Azure DevOps. This makes it possible for
 the pipeline to deploy on that machine. The given links can be used to
 navigate to the build agent installation process. Steps are:
 
--   Create agent pool using:
-    <https://devops.ec.va.gov/SharedServices/TestProject/_settings/agentqueues>
+-   Create agent pool 
 
 ![](/Media/BAD1.png)
 
--   Create build agent using:
-    <https://devops.ec.va.gov/SharedServices/TestProject/_settings/agentqueues?queueId=114&view=jobs>
+-   Create build agent 
 
 ![](/Media/BAD2.png)
 
