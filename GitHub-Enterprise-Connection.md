@@ -1,19 +1,5 @@
-OFFICE OF
-
-INFORMATION
-
-AND TECHNOLOGY
-
 GitHub Enterprise Connection
 ============================
-
-Version 1.0
-
-October 16, 2020 \| Enterprise Cloud Solutions Office (ECSO)
-
-FOR INTERNAL USE ONLY
-
-![](media/image4.png){width="2.28in" height="0.58in"}
 
 **1 Introduction**
 
@@ -54,7 +40,7 @@ services based on your business needs:
 > virtual machine. There is also a summary of organized URLs at the
 > bottom, if preferred to skim through the process.
 
-3 Business and Operational Description {#business-and-operational-description .list-paragraph}
+3 Business and Operational Description 
 --------------------------------------
 
 -   You can set any number of stages during the development and testing
@@ -91,25 +77,7 @@ To create Azure DevOps account, <https://devops.ec.va.gov/> can be used
     option on left. A new pipeline is created successfully which
     includes the source code from GitHub Repo.
 
-![](media/image5.png){width="6.579912510936133in"
-height="3.295219816272966in"}
+![](media/image5.png)
 
- {#section .list-paragraph}
-
-4 Support Escalation Paths {#support-escalation-paths .list-paragraph}
---------------------------
-
-The information below provides the contacts for support escalation.
-
-1.  ### [Vendor Supports]{.ul}
-
-2.  ### [VA]{.ul} [Support]{.ul}
-
-3.  ### [Key Contacts, Websites and]{.ul} [Portals]{.ul}
-
-Exhibit 2: Key Contacts, Websites and Portals
-
-  Entity   Description   Contact Information
-  -------- ------------- ---------------------
                          
                          
